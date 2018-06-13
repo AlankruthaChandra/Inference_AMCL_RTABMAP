@@ -1,0 +1,8 @@
+prefix=/home/robond/bot_ws/devel
+
+Name: bot
+Description: Description of bot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robond/bot_ws/devel/lib 
+Requires: 

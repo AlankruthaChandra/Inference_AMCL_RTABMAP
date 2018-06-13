@@ -1,0 +1,17 @@
+/home/ubuntu/Images/Calculator/IMG_8409.png 0
+/home/ubuntu/Images/Calculator/IMG_1272.png 0
+/home/ubuntu/Images/Calculator/IMG_9719.png 0
+/home/ubuntu/Images/Calculator/IMG_5593.png 0
+/home/ubuntu/Images/Calculator/IMG_8129.png 0
+/home/ubuntu/Images/Controller/IMG_3833.png 1
+/home/ubuntu/Images/Controller/IMG_8367.png 1
+/home/ubuntu/Images/Controller/IMG_0390.png 1
+/home/ubuntu/Images/Controller/IMG_2754.png 1
+/home/ubuntu/Images/Controller/IMG_3127.png 1
+/home/ubuntu/Images/Controller/IMG_6343.png 1
+/home/ubuntu/Images/Remote/IMG_5344.png 2
+/home/ubuntu/Images/Remote/IMG_0133.png 2
+/home/ubuntu/Images/Remote/IMG_5661.png 2
+/home/ubuntu/Images/Remote/IMG_3774.png 2
+/home/ubuntu/Images/Remote/IMG_8665.png 2
+/home/ubuntu/Images/Remote/IMG_1975.png 2
